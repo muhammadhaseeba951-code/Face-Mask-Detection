@@ -9,6 +9,9 @@ This project develops a deep learning-based computer vision system for detecting
 Dataset Source:
 Face Mask Detection Dataset
 
+Kaggle Link:
+`https://www.kaggle.com/datasets/andrewmvd/face-mask-detection`
+
 Google Drive Dataset Link:
 `https://drive.google.com/file/d/1-0mh6RtB44vFG60Ta7VF8HDQ5FjiTVQC/view?usp=sharing`
 
